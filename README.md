@@ -1,5 +1,5 @@
-👋 Hi, I’m param sandhu
-👀 I’m interested in coding
-🌱 I’m currently learning python
-💞️ I’m looking to collaborate on PI
+👋 Hi, I’m param sandhu<br>
+👀 I’m interested in coding<br>
+🌱 I’m currently learning python<br>
+💞️ I’m looking to collaborate on PI<br>
 📫 How to reach me er.paramjeetsandhu@gmail.com
